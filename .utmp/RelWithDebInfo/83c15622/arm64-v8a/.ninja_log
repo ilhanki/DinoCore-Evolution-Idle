@@ -1,0 +1,12 @@
+# ninja log v5
+63	558	7931964180261112	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	f130cb128e460657
+560	803	7931964182628205	C:/Users/kilic/DinoCore Evolution Idle/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/83c15622/obj/arm64-v8a/libswappywrapper.so	19f857f151ca505e
+35	1527	7931964189872575	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	424ab8b34ebec1e5
+27	1558	7931964190192536	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	a4831a30fd64fa9f
+8	1590	7931964190502535	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	360fca5c285600da
+43	1606	7931964190679190	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	77a7403953b5df57
+1	1648	7931964191120896	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	4001189079a6c816
+54	1861	7931964193304145	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	d5e22bc4446c2c53
+20	1883	7931964193500062	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	2902e6182b620357
+14	1964	7931964194321549	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	878ffb713123f98
+1964	2064	7931964195369341	C:/Users/kilic/DinoCore Evolution Idle/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/83c15622/obj/arm64-v8a/libgame.so	6a1ab0b7723cff64

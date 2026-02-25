@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa8035c8d8c67dd4bab08904efc79aeb, type: 3}
+  m_Name: Template_TechMultiplier
+  m_EditorClassIdentifier: Assembly-CSharp::DinoCore.Data.DinoData
+  dinoId: tech_mult
+  displayName: Bilgin Stego
+  description: "Tech Coin \xFCretimini art\u0131r\u0131r"
+  icon: {fileID: -1603144437012019521, guid: 336e5f946d4de7d4d826a5245dda47dd, type: 3}
+  idleSprite: {fileID: 0}
+  dinoType: 2
+  targetRoomIndex: -1
+  sortOrder: 0
+  baseCost: 100
+  costExponent: 1.15
+  baseBonus: 0.03
+  bonusPerLevel: 0
+  rarity: 0

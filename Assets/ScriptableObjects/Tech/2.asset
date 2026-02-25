@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5353952b23b554744a3fc02b4e4d60c3, type: 3}
+  m_Name: 2
+  m_EditorClassIdentifier: Assembly-CSharp::DinoCore.Data.TechData
+  techId: tech_speed
+  displayName: "H\u0131z Art\u0131\u015F\u0131"
+  description: 
+  icon: {fileID: 0}
+  category: 1
+  baseCost: 15
+  costExponent: 1.3
+  maxLevel: 30
+  bonusPerLevel: 0.03
+  requiredRebirthCount: 0

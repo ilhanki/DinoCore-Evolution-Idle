@@ -1,0 +1,43 @@
+# Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# IDE
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.unityproj
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Unity
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Gradle
+/ExportedObj/
+.gradle/
+
+# Crashlytics
+crashlytics-build.properties
+
+# Compressed Audio
+*.mp3
+*.ogg
+*.wav

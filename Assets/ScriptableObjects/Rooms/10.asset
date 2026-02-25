@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 868f86da35e7d7c499615aa859559711, type: 3}
+  m_Name: 10
+  m_EditorClassIdentifier: Assembly-CSharp::DinoCore.Data.RoomData
+  roomId: room_10
+  displayName: Elmas Madeni
+  description: 
+  icon: {fileID: 5881276693665278735, guid: 078062c1974d21045a4719932cd3f0c5, type: 3}
+  background: {fileID: 0}
+  baseIncome: 2500000
+  baseCost: 60000000
+  unlockCost: 200000000
+  costExponent: 1.18
+  levelMultiplierStep: 0.15
+  baseProductionTime: 22
+  baseStorageCapacity: 200000000
+  storageGrowthPerLevel: 0.1
+  baseDinoSlotCount: 4
+  maxDinoSlots: 5
+  themeColor: {r: 1, g: 1, b: 1, a: 1}
+  sortOrder: 9
