@@ -6,7 +6,7 @@ Unity ile yaptığım WebGL oyunum.
 https://ilhanki.github.io/DinoCore-Evolution-Idle/
 
 ## 📸 Oyun Görselleri
-![AnaEkran](AnaEkran.png)
+![MadenEkran](MadenEkran.png)
 ![DinoEkran](DinoEkran.png)
 ![TechEkran](TechEkran.png)
 ![EvrimEkran](EvrimEkran.png)
