@@ -1,7 +1,7 @@
 # 🦕 DinoCore Evolution Idle
 
 **DinoCore Evolution Idle**, dinozor temalı bir idle/tıklama oyunudur. Odalar aç, dinozorlar satın al, teknoloji geliştir ve gezegenler keşfet — hepsi tek bir ekranda!
-\nDeneyimlemek için: https://ilhanki.github.io/DinoCore-Evolution-Idle/
+<i>Deneyimlemek için: https://ilhanki.github.io/DinoCore-Evolution-Idle/<i>
 
 > 🤖 **Bu oyun tamamen yapay zeka (AI) ile geliştirilmiştir.** Tüm kod, mimari ve sistem tasarımı AI destekli vibe coding yöntemiyle oluşturulmuştur.
 
